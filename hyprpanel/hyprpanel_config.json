@@ -1,0 +1,33 @@
+{
+  "bar.customModules.storage.paths": [
+    "/"
+  ],
+  "theme.font.name": "JetBrainsMono Nerd Font Mono",
+  "theme.font.label": "JetBrainsMono Nerd Font Mono Bold",
+  "theme.bar.scaling": 95,
+  "theme.bar.floating": true,
+  "theme.bar.menus.monochrome": true,
+  "theme.bar.buttons.monochrome": true,
+  "bar.layouts": {
+    "0": {
+      "left": [
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "network",
+        "bluetooth",
+        "systray",
+        "clock",
+        "notifications"
+      ]
+    }
+  },
+  "theme.bar.enableShadow": false,
+  "bar.workspaces.monitorSpecific": false,
+  "bar.workspaces.show_numbered": true
+}
